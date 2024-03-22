@@ -7,7 +7,7 @@
 📚Like to Share my Knowledge<br>
   </p>
 
-  ![Profile views](https://gpvc.arturio.dev/Tuhin35)
+
   
 My name is Raihan Uddin Tuhin, and I have completed my software engineering degree 2023.I am a highly skilled web developer with a strong background in frontend and backend technologies such as HTML, CSS, JavaScript, Tailwind CSS frameworks like React, Node.js, Express.js, MongoDB . Over the past one years, I have successfully delivered responsive and visually appealing websites and web applications. I have a good experience with teamwork .
 
